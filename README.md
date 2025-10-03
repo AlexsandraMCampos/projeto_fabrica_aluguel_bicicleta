@@ -1,5 +1,3 @@
----
-
 # 🚲 BikeRent - Sistema de Aluguel de Bicicletas
 
 Aplicação desenvolvida em **Python** com **Streamlit** para simular um sistema de aluguel de bicicletas.
@@ -81,4 +79,4 @@ Durante o aprendizado foram explorados os seguintes pontos:
 
 Esse exercício reflete um **projeto de prática integradora**, unindo conceitos de **programação, análise de dados simples, front-end interativo e lógica de negócios**.
 
----
+
