@@ -1,5 +1,3 @@
-Aqui está um modelo de **README.md** para o seu projeto `BikeRent`, já incluindo a seção **Situação de Aprendizado**:
-
 ---
 
 # 🚲 BikeRent - Sistema de Aluguel de Bicicletas
@@ -84,5 +82,3 @@ Durante o aprendizado foram explorados os seguintes pontos:
 Esse exercício reflete um **projeto de prática integradora**, unindo conceitos de **programação, análise de dados simples, front-end interativo e lógica de negócios**.
 
 ---
-
-👉 Deseja que eu já prepare esse README em **formato Markdown** (`README.md`) pronto para download?
